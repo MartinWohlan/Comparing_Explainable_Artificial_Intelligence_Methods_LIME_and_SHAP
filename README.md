@@ -1,5 +1,5 @@
 Comparing_Explainable_Artificial_Intelligence_Methods_LIME_and_SHAP
-This repository is the contribution the the paper "Comparing Explainable Artificial Intelligence Methods LIME and SHAP" for the bachelor seminar.
+This repository is the contribution to the paper "Comparing Explainable Artificial Intelligence Methods LIME and SHAP" for the bachelor seminar.
 
 # Getting started
 To reproduce the results presented in the paper, the following steps must be followed:
